@@ -1,0 +1,209 @@
+21-Oct-21 11:50:11 - sma_logger - INFO - Work starts
+21-Oct-21 11:50:11 - sma_logger - INFO - 
+Taking top gaining tokens
+21-Oct-21 11:52:21 - sma_logger - INFO - These tokens are: ['KEYUSDT', 'SFPUSDT', 'DREPUSDT']
+21-Oct-21 11:52:21 - sma_logger - INFO - Buying
+21-Oct-21 11:52:50 - sma_logger - INFO - 1299.7985312276599 of KEYUSDT bought for 0.015387!
+21-Oct-21 11:52:50 - sma_logger - INFO - Successfully bought
+21-Oct-21 11:52:50 - sma_logger - INFO - 10.191602119853242 of SFPUSDT bought for 1.9624!
+21-Oct-21 11:52:50 - sma_logger - INFO - Successfully bought
+21-Oct-21 11:52:50 - sma_logger - INFO - 28.542885685742828 of DREPUSDT bought for 0.7007!
+21-Oct-21 11:52:50 - sma_logger - INFO - Successfully bought
+21-Oct-21 11:52:50 - sma_logger - INFO - Sleeping for 20 minutes
+21-Oct-21 12:12:50 - sma_logger - INFO - Selling
+21-Oct-21 12:12:54 - sma_logger - INFO - 1299.7985312276599 of KEYUSDT sold for 19.81152921297199!
+21-Oct-21 12:13:36 - sma_logger - INFO - 28.542885685742828 of DREPUSDT sold for 19.914371342942772!
+21-Oct-21 12:13:36 - sma_logger - INFO - 
+Taking top gaining tokens
+21-Oct-21 12:15:05 - sma_logger - INFO - These tokens are: ['JUVUSDT', 'GTOUSDT']
+21-Oct-21 12:15:05 - sma_logger - INFO - Buying
+21-Oct-21 12:15:14 - sma_logger - INFO - 1.2804097311139566 of JUVUSDT bought for 15.62!
+21-Oct-21 12:15:14 - sma_logger - INFO - Successfully bought
+21-Oct-21 12:15:14 - sma_logger - INFO - 418.93590280687056 of GTOUSDT bought for 0.04774!
+21-Oct-21 12:15:14 - sma_logger - INFO - Successfully bought
+21-Oct-21 12:15:14 - sma_logger - INFO - Sleeping for 20 minutes
+21-Oct-21 12:35:14 - sma_logger - INFO - Selling
+21-Oct-21 12:35:20 - sma_logger - INFO - 10.191602119853242 of SFPUSDT sold for 19.94088870770485!
+21-Oct-21 12:35:26 - sma_logger - INFO - 1.2804097311139566 of JUVUSDT sold for 19.859154929577468!
+21-Oct-21 12:35:35 - sma_logger - INFO - 418.93590280687056 of GTOUSDT sold for 19.811478843736907!
+21-Oct-21 12:35:35 - sma_logger - INFO - 
+Taking top gaining tokens
+21-Oct-21 12:36:47 - sma_logger - INFO - These tokens are: ['KEYUSDT', 'SOLUSDT', 'FIDAUSDT', 'FIROUSDT', 'LTCUSDT']
+21-Oct-21 12:36:47 - sma_logger - INFO - Buying
+21-Oct-21 12:37:03 - sma_logger - INFO - 1251.9561815336463 of KEYUSDT bought for 0.015975!
+21-Oct-21 12:37:03 - sma_logger - INFO - Successfully bought
+21-Oct-21 12:37:03 - sma_logger - INFO - 0.107095046854083 of SOLUSDT bought for 186.75!
+21-Oct-21 12:37:03 - sma_logger - INFO - Successfully bought
+21-Oct-21 12:37:03 - sma_logger - INFO - 2.617801047120419 of FIDAUSDT bought for 7.64!
+21-Oct-21 12:37:03 - sma_logger - INFO - Successfully bought
+21-Oct-21 12:37:03 - sma_logger - INFO - 2.3744509082274723 of FIROUSDT bought for 8.423!
+21-Oct-21 12:37:03 - sma_logger - INFO - Successfully bought
+21-Oct-21 12:37:03 - sma_logger - INFO - 0.09564801530368246 of LTCUSDT bought for 209.1!
+21-Oct-21 12:37:03 - sma_logger - INFO - Successfully bought
+21-Oct-21 12:37:03 - sma_logger - INFO - Sleeping for 20 minutes
+21-Oct-21 12:57:03 - sma_logger - INFO - Selling
+21-Oct-21 12:57:11 - sma_logger - INFO - 0.107095046854083 of SOLUSDT sold for 20.072824631860776!
+21-Oct-21 12:57:22 - sma_logger - INFO - 2.617801047120419 of FIDAUSDT sold for 20.11780104712042!
+21-Oct-21 12:57:26 - sma_logger - INFO - 2.3744509082274723 of FIROUSDT sold for 28.737979342277097!
+21-Oct-21 12:57:30 - sma_logger - INFO - 0.09564801530368246 of LTCUSDT sold for 19.942611190817793!
+21-Oct-21 12:57:30 - sma_logger - INFO - 
+Taking top gaining tokens
+21-Oct-21 12:58:45 - sma_logger - INFO - These tokens are: ['FIROUSDT', 'SOLUSDT', 'FIDAUSDT', 'DENTUSDT', 'GRTUSDT']
+21-Oct-21 12:58:45 - sma_logger - INFO - Buying
+21-Oct-21 12:59:01 - sma_logger - INFO - 1.6894745734076704 of FIROUSDT bought for 11.838!
+21-Oct-21 12:59:01 - sma_logger - INFO - Successfully bought
+21-Oct-21 12:59:01 - sma_logger - INFO - 0.10675776662752215 of SOLUSDT bought for 187.34!
+21-Oct-21 12:59:01 - sma_logger - INFO - Successfully bought
+21-Oct-21 12:59:01 - sma_logger - INFO - 2.6072220049537216 of FIDAUSDT bought for 7.671!
+21-Oct-21 12:59:01 - sma_logger - INFO - Successfully bought
+21-Oct-21 12:59:01 - sma_logger - INFO - 3036.7446097783177 of DENTUSDT bought for 0.006586!
+21-Oct-21 12:59:01 - sma_logger - INFO - Successfully bought
+21-Oct-21 12:59:01 - sma_logger - INFO - 22.27667631989307 of GRTUSDT bought for 0.8978!
+21-Oct-21 12:59:01 - sma_logger - INFO - Successfully bought
+21-Oct-21 12:59:01 - sma_logger - INFO - Sleeping for 20 minutes
+21-Oct-21 13:19:01 - sma_logger - INFO - Selling
+21-Oct-21 13:19:09 - sma_logger - INFO - 1.6894745734076704 of FIROUSDT sold for 16.8271667511404!
+21-Oct-21 13:19:13 - sma_logger - INFO - 0.10675776662752215 of SOLUSDT sold for 19.93060745169211!
+21-Oct-21 13:19:18 - sma_logger - INFO - 2.6072220049537216 of FIDAUSDT sold for 19.919176117846433!
+21-Oct-21 13:19:22 - sma_logger - INFO - 3036.7446097783177 of DENTUSDT sold for 19.76313392043729!
+21-Oct-21 13:19:25 - sma_logger - INFO - 22.27667631989307 of GRTUSDT sold for 20.017821341055914!
+21-Oct-21 13:19:25 - sma_logger - INFO - 
+Taking top gaining tokens
+21-Oct-21 13:20:48 - sma_logger - INFO - These tokens are: ['1INCHUSDT', 'RUNEUSDT', 'DNTUSDT', 'DREPUSDT', 'LTCUSDT']
+21-Oct-21 13:20:48 - sma_logger - INFO - Buying
+21-Oct-21 13:21:25 - sma_logger - INFO - 4.57351932311914 of 1INCHUSDT bought for 4.373!
+21-Oct-21 13:21:25 - sma_logger - INFO - Successfully bought
+21-Oct-21 13:21:25 - sma_logger - INFO - 2.3419203747072603 of RUNEUSDT bought for 8.54!
+21-Oct-21 13:21:25 - sma_logger - INFO - Successfully bought
+21-Oct-21 13:21:25 - sma_logger - INFO - 108.63661053775121 of DNTUSDT bought for 0.1841!
+21-Oct-21 13:21:25 - sma_logger - INFO - Successfully bought
+21-Oct-21 13:21:25 - sma_logger - INFO - 26.849241508927374 of DREPUSDT bought for 0.7449!
+21-Oct-21 13:21:25 - sma_logger - INFO - Successfully bought
+21-Oct-21 13:21:25 - sma_logger - INFO - 0.09596928982725528 of LTCUSDT bought for 208.4!
+21-Oct-21 13:21:25 - sma_logger - INFO - Successfully bought
+21-Oct-21 13:21:25 - sma_logger - INFO - Sleeping for 20 minutes
+21-Oct-21 13:41:25 - sma_logger - INFO - Selling
+21-Oct-21 13:41:34 - sma_logger - INFO - 4.57351932311914 of 1INCHUSDT sold for 19.98627944203064!
+21-Oct-21 13:41:41 - sma_logger - INFO - 2.3419203747072603 of RUNEUSDT sold for 19.845433255269324!
+21-Oct-21 13:41:45 - sma_logger - INFO - 108.63661053775121 of DNTUSDT sold for 19.79359043997827!
+21-Oct-21 13:42:19 - sma_logger - INFO - 26.849241508927374 of DREPUSDT sold for 19.167673513223253!
+21-Oct-21 13:42:24 - sma_logger - INFO - 0.09596928982725528 of LTCUSDT sold for 19.98080614203455!
+21-Oct-21 13:42:24 - sma_logger - INFO - 
+Taking top gaining tokens
+21-Oct-21 13:43:51 - sma_logger - INFO - These tokens are: ['SOLUSDT', 'FIDAUSDT', 'FLOWUSDT', '1INCHUSDT', 'ENJUSDT']
+21-Oct-21 13:43:51 - sma_logger - INFO - Buying
+21-Oct-21 13:44:08 - sma_logger - INFO - 0.10465177123122808 of SOLUSDT bought for 191.11!
+21-Oct-21 13:44:08 - sma_logger - INFO - Successfully bought
+21-Oct-21 13:44:08 - sma_logger - INFO - 2.566735112936345 of FIDAUSDT bought for 7.792!
+21-Oct-21 13:44:08 - sma_logger - INFO - Successfully bought
+21-Oct-21 13:44:08 - sma_logger - INFO - 1.3550135501355014 of FLOWUSDT bought for 14.76!
+21-Oct-21 13:44:08 - sma_logger - INFO - Successfully bought
+21-Oct-21 13:44:08 - sma_logger - INFO - 4.572473708276178 of 1INCHUSDT bought for 4.374!
+21-Oct-21 13:44:08 - sma_logger - INFO - Successfully bought
+21-Oct-21 13:44:08 - sma_logger - INFO - 10.887316276537833 of ENJUSDT bought for 1.837!
+21-Oct-21 13:44:08 - sma_logger - INFO - Successfully bought
+21-Oct-21 13:44:08 - sma_logger - INFO - Sleeping for 20 minutes
+21-Oct-21 14:04:08 - sma_logger - INFO - Selling
+21-Oct-21 14:04:17 - sma_logger - INFO - 1251.9561815336463 of KEYUSDT sold for 18.57151799687011!
+21-Oct-21 14:04:22 - sma_logger - INFO - 0.10465177123122808 of SOLUSDT sold for 20.066977133587987!
+21-Oct-21 14:04:32 - sma_logger - INFO - 1.3550135501355014 of FLOWUSDT sold for 20.05420054200542!
+21-Oct-21 14:04:37 - sma_logger - INFO - 4.572473708276178 of 1INCHUSDT sold for 19.949702789208967!
+21-Oct-21 14:04:41 - sma_logger - INFO - 10.887316276537833 of ENJUSDT sold for 19.956450734893846!
+21-Oct-21 14:04:41 - sma_logger - INFO - 
+Taking top gaining tokens
+21-Oct-21 14:05:52 - sma_logger - INFO - These tokens are: ['1INCHUSDT', 'RUNEUSDT', 'OMGUSDT', 'DENTUSDT', 'RSRUSDT']
+21-Oct-21 14:05:52 - sma_logger - INFO - Buying
+21-Oct-21 14:06:15 - sma_logger - INFO - 4.584001833600733 of 1INCHUSDT bought for 4.363!
+21-Oct-21 14:06:15 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:06:15 - sma_logger - INFO - 2.351281448389372 of RUNEUSDT bought for 8.506!
+21-Oct-21 14:06:15 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:06:15 - sma_logger - INFO - 1.256913021618904 of OMGUSDT bought for 15.912!
+21-Oct-21 14:06:15 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:06:15 - sma_logger - INFO - 3079.2917628945343 of DENTUSDT bought for 0.006495!
+21-Oct-21 14:06:15 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:06:15 - sma_logger - INFO - 533.1911490269262 of RSRUSDT bought for 0.03751!
+21-Oct-21 14:06:15 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:06:15 - sma_logger - INFO - Sleeping for 20 minutes
+21-Oct-21 14:26:15 - sma_logger - INFO - Selling
+21-Oct-21 14:26:28 - sma_logger - INFO - 2.566735112936345 of FIDAUSDT sold for 20.10010266940452!
+21-Oct-21 14:26:32 - sma_logger - INFO - 4.584001833600733 of 1INCHUSDT sold for 20.114600045840017!
+21-Oct-21 14:26:41 - sma_logger - INFO - 2.351281448389372 of RUNEUSDT sold for 19.969433341170937!
+21-Oct-21 14:26:47 - sma_logger - INFO - 1.256913021618904 of OMGUSDT sold for 19.709653092006032!
+21-Oct-21 14:26:53 - sma_logger - INFO - 3079.2917628945343 of DENTUSDT sold for 19.987682832948423!
+21-Oct-21 14:27:02 - sma_logger - INFO - 533.1911490269262 of RSRUSDT sold for 19.904025593175156!
+21-Oct-21 14:27:02 - sma_logger - INFO - 
+Taking top gaining tokens
+21-Oct-21 14:28:13 - sma_logger - INFO - These tokens are: ['KEYUSDT', '1INCHUSDT', 'ENJUSDT', 'RUNEUSDT', 'LTCUSDT']
+21-Oct-21 14:28:13 - sma_logger - INFO - Buying
+21-Oct-21 14:28:33 - sma_logger - INFO - 1311.131506490101 of KEYUSDT bought for 0.015254!
+21-Oct-21 14:28:33 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:28:33 - sma_logger - INFO - 4.565167769915544 of 1INCHUSDT bought for 4.381!
+21-Oct-21 14:28:33 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:28:33 - sma_logger - INFO - 10.81665765278529 of ENJUSDT bought for 1.849!
+21-Oct-21 14:28:33 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:28:33 - sma_logger - INFO - 2.3573785950023574 of RUNEUSDT bought for 8.484!
+21-Oct-21 14:28:33 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:28:33 - sma_logger - INFO - 0.0949667616334283 of LTCUSDT bought for 210.6!
+21-Oct-21 14:28:33 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:28:33 - sma_logger - INFO - Sleeping for 20 minutes
+21-Oct-21 14:48:33 - sma_logger - INFO - Selling
+21-Oct-21 14:48:42 - sma_logger - INFO - 4.565167769915544 of 1INCHUSDT sold for 20.018260671079663!
+21-Oct-21 14:48:46 - sma_logger - INFO - 10.81665765278529 of ENJUSDT sold for 19.967550027041646!
+21-Oct-21 14:48:50 - sma_logger - INFO - 2.3573785950023574 of RUNEUSDT sold for 20.384252710985386!
+21-Oct-21 14:48:53 - sma_logger - INFO - 0.0949667616334283 of LTCUSDT sold for 19.981006647673315!
+21-Oct-21 14:48:53 - sma_logger - INFO - 
+Taking top gaining tokens
+21-Oct-21 14:50:08 - sma_logger - INFO - These tokens are: ['RUNEUSDT', '1INCHUSDT', 'QTUMUSDT', 'DNTUSDT', 'LTCUSDT']
+21-Oct-21 14:50:08 - sma_logger - INFO - Buying
+21-Oct-21 14:50:30 - sma_logger - INFO - 2.3094688221709005 of RUNEUSDT bought for 8.66!
+21-Oct-21 14:50:30 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:50:30 - sma_logger - INFO - 4.569339730408956 of 1INCHUSDT bought for 4.377!
+21-Oct-21 14:50:30 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:50:30 - sma_logger - INFO - 1.4395738861297056 of QTUMUSDT bought for 13.893!
+21-Oct-21 14:50:30 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:50:30 - sma_logger - INFO - 109.46907498631637 of DNTUSDT bought for 0.1827!
+21-Oct-21 14:50:30 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:50:30 - sma_logger - INFO - 0.0951022349025202 of LTCUSDT bought for 210.3!
+21-Oct-21 14:50:30 - sma_logger - INFO - Successfully bought
+21-Oct-21 14:50:30 - sma_logger - INFO - Sleeping for 20 minutes
+21-Oct-21 15:10:30 - sma_logger - INFO - Selling
+21-Oct-21 15:10:40 - sma_logger - INFO - 2.3094688221709005 of RUNEUSDT sold for 19.993071593533486!
+21-Oct-21 15:10:45 - sma_logger - INFO - 4.569339730408956 of 1INCHUSDT sold for 20.324423120859038!
+21-Oct-21 15:10:49 - sma_logger - INFO - 1.4395738861297056 of QTUMUSDT sold for 19.90066940185705!
+21-Oct-21 15:10:56 - sma_logger - INFO - 109.46907498631637 of DNTUSDT sold for 20.01094690749863!
+21-Oct-21 15:11:00 - sma_logger - INFO - 0.0951022349025202 of LTCUSDT sold for 19.971469329529242!
+21-Oct-21 15:11:00 - sma_logger - INFO - 
+Taking top gaining tokens
+21-Oct-21 15:12:34 - sma_logger - INFO - These tokens are: ['1INCHUSDT', 'VETUSDT', 'RSRUSDT']
+21-Oct-21 15:12:34 - sma_logger - INFO - Buying
+21-Oct-21 15:12:43 - sma_logger - INFO - 4.503490204908805 of 1INCHUSDT bought for 4.441!
+21-Oct-21 15:12:43 - sma_logger - INFO - Successfully bought
+21-Oct-21 15:12:43 - sma_logger - INFO - 151.60703456640388 of VETUSDT bought for 0.13192!
+21-Oct-21 15:12:43 - sma_logger - INFO - Successfully bought
+21-Oct-21 15:12:43 - sma_logger - INFO - 534.4735435595937 of RSRUSDT bought for 0.03742!
+21-Oct-21 15:12:43 - sma_logger - INFO - Successfully bought
+21-Oct-21 15:12:43 - sma_logger - INFO - Sleeping for 20 minutes
+21-Oct-21 15:32:43 - sma_logger - INFO - Selling
+21-Oct-21 15:32:56 - sma_logger - INFO - 4.503490204908805 of 1INCHUSDT sold for 19.815356901598744!
+21-Oct-21 15:33:00 - sma_logger - INFO - 151.60703456640388 of VETUSDT sold for 19.89842328684051!
+21-Oct-21 15:33:05 - sma_logger - INFO - 534.4735435595937 of RSRUSDT sold for 20.138963121325492!
+21-Oct-21 15:33:05 - sma_logger - INFO - 
+Taking top gaining tokens
+21-Oct-21 15:35:20 - sma_logger - INFO - These tokens are: ['FIROUSDT', 'DNTUSDT', 'STMXUSDT', 'VETUSDT']
+21-Oct-21 15:35:20 - sma_logger - INFO - Buying
+21-Oct-21 15:35:32 - sma_logger - INFO - 2.1112635912593687 of FIROUSDT bought for 9.473!
+21-Oct-21 15:35:32 - sma_logger - INFO - Successfully bought
+21-Oct-21 15:35:32 - sma_logger - INFO - 109.40919037199126 of DNTUSDT bought for 0.1828!
+21-Oct-21 15:35:32 - sma_logger - INFO - Successfully bought
+21-Oct-21 15:35:32 - sma_logger - INFO - 585.6515373352855 of STMXUSDT bought for 0.03415!
+21-Oct-21 15:35:32 - sma_logger - INFO - Successfully bought
+21-Oct-21 15:35:32 - sma_logger - INFO - 152.02189115232594 of VETUSDT bought for 0.13156!
+21-Oct-21 15:35:32 - sma_logger - INFO - Successfully bought
+21-Oct-21 15:35:32 - sma_logger - INFO - Sleeping for 20 minutes
+21-Oct-21 15:55:32 - sma_logger - INFO - Selling
+21-Oct-21 15:55:41 - sma_logger - INFO - 2.1112635912593687 of FIROUSDT sold for 19.446848939090046!
+21-Oct-21 15:55:55 - sma_logger - INFO - 109.40919037199126 of DNTUSDT sold for 19.989059080962804!
+21-Oct-21 15:56:00 - sma_logger - INFO - 585.6515373352855 of STMXUSDT sold for 19.636896046852122!
+21-Oct-21 15:56:07 - sma_logger - INFO - 152.02189115232594 of VETUSDT sold for 20.018242626938278!
+21-Oct-21 15:56:07 - sma_logger - INFO - 
+Taking top gaining tokens
